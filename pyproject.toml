@@ -1,0 +1,9 @@
+[project]
+name = "thor-trigger"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "adafruit-circuitpython-mcp4725>=1.4.18",
+]
